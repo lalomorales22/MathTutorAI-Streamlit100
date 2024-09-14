@@ -16,7 +16,7 @@ Math Tutor AI is a Streamlit-based web application that provides personalized as
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/math-tutor-ai.git
+   git clone https://github.com/lalomorales22/MathTutorAI-Streamlit100.git
    cd math-tutor-ai
    ```
 
